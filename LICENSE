@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Jimmy-Goetz
+Copyright (c) 2026 Jimmy GOETZ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+AVERTISSEMENT SPECIFIQUE (fabrication assistee par ordinateur) :
+Ce logiciel genere du code de commande numerique (G-code) destine a piloter
+des machines-outils. L'execution de ce code sur une machine reelle peut
+causer des blessures graves et des degats materiels. L'utilisateur est seul
+responsable de la verification, de la simulation et de l'execution du G-code
+genere. Les auteurs declinent toute responsabilite quant aux consequences de
+son utilisation.

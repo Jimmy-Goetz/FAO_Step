@@ -1,0 +1,10 @@
+customtkinter>=5.2.0
+matplotlib>=3.8.0
+shapely>=2.1.0
+ezdxf>=1.3.0
+trimesh>=4.1.0
+rtree>=1.1.0
+networkx>=3.0
+scipy>=1.11.0
+numpy>=1.24.0
+cascadio>=0.0.14
